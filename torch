@@ -1,0 +1,28 @@
+torch.nn.module?? Full code
+torch.nn.module? shift+tab (about)
+%%bash
+v @ w (scalar pdt)
+x = torch.Tensor(5).random_(10);
+_ inplace operator
+dim(), numel(), 
+
+------Math-----
+convolutional, orthogonal
+
+autograd
+
+how to check that the params are relevant?
+-If the loss function is differentiable based on theta (gradient descent, hunt for the global minima)
+
+--12th feb--
+y we use y combinator in backprop?
+pooling useful with slight changes in an img./ speech locally invariant/ small lipschid constants
+---13th feb--
+fcl to have global statistics
+1d convo conversion
+___20th feb---
+Mini batch - adding some sort of noise
+Batch norm over dropouts
+
+---5th march---
+IPAM new methods in dl
